@@ -19,3 +19,6 @@ Per eseguire il codice, è stato utilizzato un server offerto da Altervista. Ino
 
 **CONCLUSIONE**:<p>
 In sintesi, questo codice utilizza le librerie simple_html_dom e TCPDF per estrarre dati da una pagina web e generare un documento PDF con i dati estratti. Questo codice è un esempio di come le librerie possono essere utilizzate per creare soluzioni potenti e semplici da utilizzare, gestite tramite un server e controllate tramite un bot Telegram.
+
+**NOME BOT**:<p>
+@VERONATRENTOBOT

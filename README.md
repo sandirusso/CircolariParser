@@ -1,2 +1,2 @@
 # CircolariParser
-Circolari
+Gestione Circolari del VT tramite BOT telegram

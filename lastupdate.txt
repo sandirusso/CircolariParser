@@ -1,0 +1,1 @@
+[{"chatID":195539501,"message_id":4885,"nome":"Claudio","cognome":"Rizzo","username":"RizzoC"},{"chatID":5906707766,"message_id":4891,"nome":"Sandi","cognome":null,"username":null},{"chatID":null,"message_id":null,"nome":null,"cognome":null,"username":null}]
